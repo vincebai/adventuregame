@@ -1,0 +1,30 @@
+{
+  "name": "adventuregame",
+  "version": "1.1.0",
+  "description": "First game on node",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.2.0",
+    "hub": "^2.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vincebai/adventuregame.git"
+  },
+  "author": "Vincent Bai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincebai/adventuregame/issues"
+  },
+  "homepage": "https://github.com/vincebai/adventuregame#readme"
+}
